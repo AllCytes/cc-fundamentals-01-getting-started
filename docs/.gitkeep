@@ -1,0 +1,13 @@
+# Documentation Folder
+# ====================
+#
+# Put your project documentation here!
+#
+# Common files:
+# - architecture.md    → How your app is structured
+# - api.md            → API endpoints and usage
+# - setup.md          → Detailed setup instructions
+# - troubleshooting.md → Common problems and solutions
+#
+# Claude can read these files when it needs more context
+# about your project. Reference them in CLAUDE.md!

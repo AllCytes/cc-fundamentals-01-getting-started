@@ -1,0 +1,21 @@
+# Source Code
+# ===========
+#
+# Your application code goes here!
+#
+# Common structures:
+#
+# For a web app:
+#   src/
+#   ├── components/    → UI components
+#   ├── pages/         → Page routes
+#   ├── utils/         → Helper functions
+#   └── index.js       → Entry point
+#
+# For a Python project:
+#   src/
+#   ├── __init__.py
+#   ├── main.py        → Entry point
+#   └── utils/         → Helper modules
+#
+# Start simple - add folders as you need them!

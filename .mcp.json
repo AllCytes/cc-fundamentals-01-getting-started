@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "_comment": "MCP servers extend Claude's capabilities. You'll learn about these in Module 4!",
+    "_example_disabled": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/example-mcp-server"],
+      "env": {
+        "API_KEY": "your-key-here"
+      }
+    }
+  }
+}

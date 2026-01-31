@@ -1,0 +1,15 @@
+# Security Hooks
+# ==============
+#
+# Hooks are scripts that protect you from dangerous operations.
+# They run BEFORE or AFTER Claude executes commands.
+#
+# Examples of what hooks can block:
+# - Deleting important files (rm -rf)
+# - Exposing API keys in output
+# - Running destructive database commands
+#
+# You'll learn about hooks in Module 7: Security Essentials.
+# For now, this folder shows you WHERE hooks live.
+#
+# Learn more: https://code.claude.com/docs/hooks

@@ -1,0 +1,12 @@
+# Custom Slash Commands
+# =====================
+#
+# Your custom /commands go here!
+# Each .md file becomes a command you can run.
+#
+# Example: plan.md → /plan
+#
+# You'll create your first command in Module 2.
+# For now, this folder shows you WHERE commands live.
+#
+# Learn more: https://code.claude.com/docs/slash-commands

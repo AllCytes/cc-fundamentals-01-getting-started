@@ -1,0 +1,11 @@
+# Specs To-Do
+# ===========
+#
+# Planning specs waiting to be implemented go here!
+#
+# Workflow (you'll learn this in Module 3):
+# 1. Create a spec with /plan → saves to specs/todo/
+# 2. Build it with /build → reads from specs/todo/
+# 3. When complete, move to specs/done/
+#
+# This folder tracks what NEEDS to be built.
