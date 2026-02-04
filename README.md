@@ -1,5 +1,25 @@
 # Claude Code Starter Template - Module 1
 
+## Make It Your Own
+
+After cloning, remove the original remote and create your own GitHub repository:
+
+**Windows (PowerShell)**
+```powershell
+git remote remove origin
+gh repo create cc-fundamentals-01-getting-started --public --source=. --remote=origin --push
+```
+
+**Mac / Linux**
+```bash
+git remote remove origin
+gh repo create cc-fundamentals-01-getting-started --public --source=. --remote=origin --push
+```
+
+> **Prerequisite:** Install the [GitHub CLI](https://cli.github.com/) — `winget install GitHub.cli` (Windows) or `brew install gh` (Mac), then run `gh auth login` once.
+
+---
+
 Welcome to Claude Code! This template gives you the foundation for working with AI-powered development.
 
 ---
